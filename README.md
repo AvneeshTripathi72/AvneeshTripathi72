@@ -24,7 +24,6 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/avneesh-kumar-tripathi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/avanishtripath"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/a7b9cdm3"><img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/a7b9cdm3"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
@@ -37,9 +36,73 @@
 
 ### ⚙️ Languages & Tools  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,js,ts,html,css,bootstrap,tailwind,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,postman,linux,vscode" />
-</p>
+<style>
+  body {
+    background-color: #000;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .skills {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .skills-title {
+    font-size: 2rem;
+    color: #00ffcc;
+    text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+  }
+
+  .skills img {
+    margin: 10px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    filter: drop-shadow(0 0 5px #00ffcc);
+  }
+
+  .skills img:hover {
+    transform: scale(1.3);
+    filter: drop-shadow(0 0 20px #ff66cc);
+  }
+
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+</style>
+
+<div class="skills">
+  <div class="skills-title">⚡ Tech Stack ⚡</div>
+  <div class="skills-container">
+    <img src="https://skillicons.dev/icons?i=react" width="60px" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="60px" />
+    <img src="https://skillicons.dev/icons?i=express" width="60px" />
+    <img src="https://skillicons.dev/icons?i=java" width="60px" />
+    <img src="https://skillicons.dev/icons?i=spring" width="60px" />
+    <img src="https://skillicons.dev/icons?i=js" width="60px" />
+    <img src="https://skillicons.dev/icons?i=ts" width="60px" />
+    <img src="https://skillicons.dev/icons?i=html" width="60px" />
+    <img src="https://skillicons.dev/icons?i=css" width="60px" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="60px" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="60px" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="60px" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="60px" />
+    <img src="https://skillicons.dev/icons?i=postgres" width="60px" />
+    <img src="https://skillicons.dev/icons?i=redis" width="60px" />
+    <img src="https://skillicons.dev/icons?i=docker" width="60px" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="60px" />
+    <img src="https://skillicons.dev/icons?i=aws" width="60px" />
+    <img src="https://skillicons.dev/icons?i=git" width="60px" />
+    <img src="https://skillicons.dev/icons?i=postman" width="60px" />
+    <img src="https://skillicons.dev/icons?i=linux" width="60px" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="60px" />
+  </div>
+</div>
+
 
 ---
 
