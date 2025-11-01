@@ -1,37 +1,77 @@
-<h1 align="center">Hi 👋, I'm Avneesh Kumar Tripathi</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | Express | Spring Boot | Java REST API JavaScript</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00C2FF;">Avneesh Kumar Tripathi</span></h1>
+<h3 align="center">🚀 Full Stack Developer | React | Node.js | Spring Boot | Java | REST APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avneeshtripathi72&label=Profile%20views&color=0e75b6&style=flat" alt="avneeshtripathi72" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avneeshtripathi72" alt="avneeshtripathi72" /></a> </p>
-
-- 🔭 I’m currently working on **Building Full Stack Projects using React (frontend), Spring Boot / Node.js (backend), and MySQL / MongoDB (database).**
-
-- 🌱 I’m currently learning **Spring Boot, REST APIs, and Advanced React Concepts**
-
-- 👯 I’m looking to collaborate on **Open-source full stack or backend-heavy projects involving Java or Node.js.**
-
-- 🤝 I’m looking for help with **Enhancing performance and scalability in large-scale backend systems.**
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Java, and Spring Boot**
-
-- 📫 How to reach me **avanishtripathiavanish79921170@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avneesh-kumar-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avneesh-kumar-tripathi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/avanishtripath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avanishtripath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/a7b9cdm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a7b9cdm3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/a7b9cdm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a7b9cdm3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/a7b9cdm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a7b9cdm3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/avanishtripathiab54x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avanishtripathiab54x" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avneeshtripathi72&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avneeshtripathi72&show_icons=true&locale=en&layout=compact" alt="avneeshtripathi72" /></p>
+### 🌟 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avneeshtripathi72&show_icons=true&locale=en" alt="avneeshtripathi72" /></p>
+- 🔭 **Currently Working On:** Full Stack Projects using **React**, **Spring Boot / Node.js**, and **MySQL / MongoDB**  
+- 🌱 **Learning:** Spring Boot, REST APIs, and Advanced React Concepts  
+- 👯 **Looking to Collaborate On:** Open Source Full Stack / Backend-heavy Projects  
+- 🤝 **Seeking Guidance In:** Performance & Scalability for Large Backend Systems  
+- 💬 **Ask Me About:** React, Node.js, Express, MongoDB, Java, Spring Boot  
+- 📫 **Reach Me At:** [avanishtripathiavanish79921170@gmail.com](mailto:avanishtripathiavanish79921170@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshtripathi72&" alt="avneeshtripathi72" /></p>
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/avneesh-kumar-tripathi"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
+  <a href="https://www.codechef.com/users/avanishtripath"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" width="45px" color="#5B4638"/></a>
+  <a href="https://www.hackerrank.com/a7b9cdm3"><img src="https://skillicons.dev/icons?i=hackerrank" width="45px"/></a>
+  <a href="https://codeforces.com/profile/a7b9cdm3"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" width="45px" color="#1F8ACB"/></a>
+  <a href="https://www.leetcode.com/a7b9cdm3"><img src="https://skillicons.dev/icons?i=leetcode" width="45px"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/avanishtripathiab54x"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" width="45px" color="#2F8D46"/></a>
+</p>
+
+---
+
+### 🧠 Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,js,ts,html,css,bootstrap,tailwind,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,postman,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avneeshtripathi72&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshtripathi72&layout=compact&theme=radical" alt="top-langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avneeshtripathi72&theme=radical" alt="streak-stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avneeshtripathi72&theme=radical&margin-w=10&margin-h=10&column=6" alt="trophies"/>
+</p>
+
+---
+
+### 💡 Fun Quote  
+
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> — Cory House
+
+---
+
+### 💖 Support Me  
+
+<p align="center">
+  <a href="https://github.com/avneeshtripathi72">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
