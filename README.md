@@ -24,13 +24,14 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/avneesh-kumar-tripathi"><img src="https://skillicons.dev/icons?i=linkedin" width="50px"/></a>
-  <a href="https://www.codechef.com/users/avanishtripath"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" width="45px" color="#5B4638"/></a>
-  <a href="https://www.hackerrank.com/a7b9cdm3"><img src="https://skillicons.dev/icons?i=hackerrank" width="50px"/></a>
-  <a href="https://codeforces.com/profile/a7b9cdm3"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" width="45px" color="#1F8ACB"/></a>
-  <a href="https://www.leetcode.com/a7b9cdm3"><img src="https://skillicons.dev/icons?i=leetcode" width="50px"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/avanishtripathiab54x"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" width="45px" color="#2F8D46"/></a>
+  <a href="https://linkedin.com/in/avneesh-kumar-tripathi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/avanishtripath"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/a7b9cdm3"><img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/a7b9cdm3"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/a7b9cdm3"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/avanishtripathiab54x"><img src="https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
+
 
 ---
 
