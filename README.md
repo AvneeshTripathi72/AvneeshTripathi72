@@ -2,7 +2,8 @@
 <div align="center" style="background-color:black; padding:20px; border-radius:20px;">
 
 <h1 style="color:#00FFC6;">👋 Hey, I'm <span style="color:#FF66B2;">Avneesh Kumar Tripathi</span></h1>
-<h3 style="color:#FFFFFF;">💻 Full Stack Developer | React ⚛️ | Node.js 🌐 | Spring Boot ☕ | Java 🚀</h3>
+<h3 style="color:#FFFFFF;">💻 Full Stack Developer | React ⚛️ | Node.js 🌐 | Spring Boot   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="22" hight = "8" alt="Spring Boot Logo" />
+  | Java 🚀</h3>
 
 <img src="https://komarev.com/ghpvc/?username=avneeshtripathi72&label=Profile+Views&color=ff69b4&style=flat-square" alt="profile views"/>
 
@@ -35,18 +36,11 @@
 ---
 
 ### ⚙️ Languages & Tools  
+---
+<h2 align="center"> Tech Stack </h2>
 
-<p align="center">
+<p align="center && style=for-the-badge">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,js,ts,html,css,bootstrap,tailwind,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,postman,linux,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Matrix%20Green-00ff88?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Baby%20Pink-ff66cc?style=for-the-badge&logo=flutter&logoColor=black" />
-</p>
-
-<p align="center">
-   Built with Passion — <b>Avneesh Kumar Tripathi</b> 
 </p>
 
 ---
@@ -54,7 +48,7 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avneeshtripathi72&show_icons=true&theme=chartreuse-dark&bg_color=000000&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avneeshtripathi72&style=for-the-badge&show_icons=true&theme=chartreuse-dark&bg_color=000000&text_color=ffffff" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshtripathi72&layout=compact&theme=chartreuse-dark&bg_color=000000&text_color=ffffff" height="170"/>
 </p>
 
