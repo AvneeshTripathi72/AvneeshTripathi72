@@ -1,4 +1,3 @@
-<!-- Stylish Black Themed GitHub Profile README -->
 
 <div align="center" style="background-color:black; padding:20px; border-radius:20px;">
 
@@ -17,11 +16,8 @@
 - 🔭 **Currently Working On:** Full Stack Projects using **React**, **Spring Boot / Node.js**, and **MySQL / MongoDB**.  
 - 🌱 **Learning:** Spring Boot, Microservices, Kafka, and Advanced React Patterns.  
 - 💬 **Ask Me About:** React, Node.js, Express, MongoDB, Spring Boot, Java, and REST APIs.  
-- 🧠 **Interests:** System Design, Backend Optimization, and Cloud Deployment (AWS / Docker).  
-- 💪 **Strengths:** Clean code, modular architecture, and API-driven development.  
 - 🤝 **Looking To Collaborate On:** Open Source Full Stack Projects or Hackathons.  
 - 📫 **Reach Me At:** [avanishtripathiavanish79921170@gmail.com](mailto:avanishtripathiavanish79921170@gmail.com)  
-- ⚡ **Fun Fact:** I debug faster at midnight with music 🎵 and coffee ☕.  
 
 ---
 
