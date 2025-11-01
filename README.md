@@ -35,32 +35,18 @@
 ---
 
 ### ⚙️ Languages & Tools  
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,js,ts,html,css,bootstrap,tailwind,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,postman,linux,vscode" />
+</p>
 
-  <a href="https://linkedin.com/in/avneesh-kumar-tripathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Matrix%20Green-00ff88?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Baby%20Pink-ff66cc?style=for-the-badge&logo=flutter&logoColor=black" />
+</p>
 
-  <a href="https://www.codechef.com/users/avanishtripath" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/a7b9cdm3" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/a7b9cdm3" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-
-  <a href="https://leetcode.com/a7b9cdm3" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/avanishtripathiab54x" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-
+<p align="center">
+   Built with Passion — <b>Avneesh Kumar Tripathi</b> 
 </p>
 
 ---
